@@ -20,7 +20,7 @@ There are two control modes supported. The first is **mouse flight** and the sec
 ### Traditional Controls
 - W/S: Pitch Down/Up
 - A/D: Yaw Left/Right
-- R/T: Increase/Decrease throttle
+- R/F: Increase/Decrease throttle
 
 Note that with the traditional control setting, a gamepad or joystick's X/Y axes can be used for flight as well.
 
